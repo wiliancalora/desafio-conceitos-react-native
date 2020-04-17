@@ -65,8 +65,6 @@ export default function App() {
                 </Text>
               </View>
 
-              
-
               <TouchableOpacity
                 style={styles.button}
                 onPress={() => handleLikeRepository(repository.id)}
